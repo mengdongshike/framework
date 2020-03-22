@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "king": "src/king"
+            "king\\": "src/king"
         }
     }
 }
